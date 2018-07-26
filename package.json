@@ -1,0 +1,10 @@
+{
+  "name": "js-56kknm",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/js-56kknm",
+  "dependencies": {
+    "sass": "1.10.1",
+    "jquery": "3.3.1"
+  },
+  "version": "1.0.0"
+}
